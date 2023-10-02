@@ -4,4 +4,4 @@
 #### เทสเคสที่ทำดักไว้
 - Add Input Item and Show New Item in To-Do Tasks
 - Add Multiple Items and Verify In TO-DO TASK
-รันเทสด้วย ไฟล์ ``` robot test-todo-list.robot ```
+- รันเทสด้วย ไฟล์ ``` robot test-todo-list.robot ```
